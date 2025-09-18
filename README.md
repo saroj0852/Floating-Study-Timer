@@ -18,7 +18,7 @@ Now with **desktop notifications** (via `plyer`) to remind you at intervals!
 ## 📂 Installation  
 Clone this repository: 
    
-     git clone https://github.com/saroj0852/floating-study-timer.git
+    git clone https://github.com/saroj0852/floating-study-timer.git
     cd floating-study-timer
    
 Install dependencies:
