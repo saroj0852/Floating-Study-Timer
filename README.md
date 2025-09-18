@@ -31,15 +31,21 @@ Run the script:
 ## 🛠️ Requirements
 
 1.Python 3.x
+
 2.Tkinter (comes pre-installed with Python)
+
 3.plyer
 
 ## 🎯 Usage
 
 Click ▶ Start to begin counting
+
 Click ⏸ Pause to stop temporarily
+
 Click 🔄 Reset to clear the time
+
 Click ❌ Close to exit
+
 Get notification popups (e.g., "You studied for 30 minutes!")
 
 📌 Future Improvements
