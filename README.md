@@ -15,42 +15,35 @@ Now with **desktop notifications** (via `plyer`) to remind you at intervals!
 - 🎯 Lightweight and easy to use  
 
 ---
-
 ## 📂 Installation  
+Clone this repository: 
+   
+     git clone https://github.com/saroj0852/floating-study-timer.git
+    cd floating-study-timer
+   
+Install dependencies:
 
-Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/floating-study-timer.git
-  cd floating-study-timer
-  Install dependencies:
-
-bash
-Copy code
-pip install plyer
+    pip install plyer
 Run the script:
 
-bash
-Copy code
-python timer.py
-🛠️ Requirements
-Python 3.x
+    python timer.py
 
-Tkinter (comes pre-installed with Python)
+## 🛠️ Requirements
 
-plyer (pip install plyer)
+1.Python 3.x
+2.Tkinter (comes pre-installed with Python)
+3.plyer
 
-🎯    Usage
+## 🎯 Usage
+
 Click ▶ Start to begin counting
-
 Click ⏸ Pause to stop temporarily
-
 Click 🔄 Reset to clear the time
-
 Click ❌ Close to exit
-
 Get notification popups (e.g., "You studied for 30 minutes!")
 
 📌 Future Improvements
+
 Save total study time per day
 
 Show study history in a log file
