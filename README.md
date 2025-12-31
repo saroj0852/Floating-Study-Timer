@@ -54,4 +54,4 @@ Save total study time per day
 
 Show study history in a log file
 
-Customizable notification intervals
+Customizable notification interval
