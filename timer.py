@@ -101,5 +101,5 @@ class FloatingStudyTimer:
 # Run app
 root = tk.Tk()
 app = FloatingStudyTimer(root)
-root.mainloop()
+groot.mainloop()
 
