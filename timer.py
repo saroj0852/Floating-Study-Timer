@@ -102,8 +102,4 @@ class FloatingStudyTimer:
 root = tk.Tk()
 app = FloatingStudyTimer(root)
 root.mainloop()
-# End of file timer2/time.pyimport tkinter as tk
-import time
-import threading    
-which is help people to focus on their studies by providing a simple and accessible timer.  
 
